@@ -14,7 +14,8 @@ Nothing realy interesting to say about myself. I like to write something ocassio
 &nbsp; 
 
 ## online relationships aren't real
-You are wasting your time
+You are wasting your time.
+
 hello im a sads person with a anime avatar, i have nine friends and i link my equally as degenerate significant other on my profile with a unicode heart
 my name is minimalistic and ominous, if you insult me, i'll dox you and then bask in my silent glory
 
