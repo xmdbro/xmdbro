@@ -5,10 +5,10 @@ Yo 👋,
 Nothing realy interesting to say about myself. I like to write something ocassionaly every now and then although I don't put them here. I used to game hard but now I just spend majority of my day studying or talking to people
 
 ## Socials 😎
- - Discord: https://discordapp.com/users/418334108251586562
- - Steam: https://steamcommunity.com/id/xmdbb/
- - AniList: https://anilist.co/user/xMdb/
- - MyAnimeList: https://myanimelist.net/profile/xMdb
+ - Discord: [**xMdb#2388**](https://discordapp.com/users/418334108251586562)
+ - Steam: [**/id/xmdbb/**](https://steamcommunity.com/id/xmdbb/)
+ - AniList: [**/user/xMdb/**](https://anilist.co/user/xMdb/)
+ - MyAnimeList: [**/profile/xMdb**](https://myanimelist.net/profile/xMdb)
 
 ## online relationships aren't real
 You are wasting your time.
