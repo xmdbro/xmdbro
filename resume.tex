@@ -1,0 +1,229 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Kristopher Lance A. Chiu} \\ \vspace{1pt}
+    \small +63 966 3648 452 $|$ \href{mailto:x@x.com}{\underline{kristopher\_chiu@dlsu.edu.ph}} $|$ 
+    \href{https://linkedin.com/in/...}{\underline{https://www.linkedin.com/in/kl-chiu/}} $|$
+    \href{https://github.com/...}{\underline{github.com/xmdbro}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {De La Salle University}{Manila, Metro Manila}
+      {BS Computer Science, Major in Network Information Security}{Expected Sep. 2028}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+      
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    \resumeSubheading
+      {Administrative Assistant}{Jan. 2024 -- Feb. 2024}
+      {Bureau of Soils and Water Management}{Quezon City, Metro Manila}
+      \resumeItemListStart
+        \resumeItem{Organised and digitised administrative records, ensuring accuracy and efficiency in retrieval of documents.}
+        \resumeItem{Assisted in drafting and formatting official correspondence, memos, reports, etc.}
+        \resumeItem{Worked on coordinating scheduling of meetings and maintained office calendar to keep work efficient.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {IT Tech Intern}{Oct. 2023 -- Dec. 2023}
+      {Commonwealth Hospital}{Quezon City, Metro Manila}
+      \resumeItemListStart
+        \resumeItem{Installed and configured hospital computers and network systems.}
+        \resumeItem{Assissted in configuring and updating hospital servers.}
+        \resumeItem{Worked with IT team to perform routine maintenance checks and light penetration testing.}
+        \resumeItem{Documented technical support cases.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Associate Backend Engineer \& Assistant Vice President}{Oct 2024 -- Present}
+      {La Salle Computer Society}{DLSU}
+      \resumeItemListStart
+        \resumeItem{Contributed to the development of a university-wide website by assisting in backend API implementation and database design.}
+        \resumeItem{Prepared digital materials and presentations for an organisation-wide event.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Reliable Data Transfer over UDP} $|$ \emph{Python}}{Feb. 2026}
+          \resumeItemListStart
+            \resumeItem{Developed an application-layer file transfer protocol using Stop-and-Wait ARQ over UDP to support reliable file uploads (PUT) and downloads (GET) using Python.}
+            \resumeItem{Engineered custom connection handshakes, packet encoding/decoding, and a packet-loss simulation mode to rigorously test timeout and automatic retransmission paths.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{RFC PokeProtocol} $|$ \emph{Java, UDP}}{Dec 2025}
+          \resumeItemListStart
+            \resumeItem{Engineered a custom reliable data transfer protocol over UDP using Java, implementing a three-way handshake, ACK/NACK sequencing, and automatic packet retransmission.}
+            \resumeItem{Developed a networked multiplayer Pokémon battle system featuring real-time synchronization, live chat, and a spectator mode.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, C, Java, Javascript, Typescript, SQL (MySQL \& Postgres)} \\
+     \textbf{Frameworks}{: React, Node.js, Next.js, Express.js, Tailwind} \\
+     \textbf{Developer Tools}{: Git, Docker, Kali Linux, Nessus, NMAP, Postman, Metasploit, VS Code, IntelliJ} \\
+     \textbf{Libraries}{: pandas, NumPy, Matplotlib}
+    }}
+ \end{itemize}
+
+ 
+%-----------Leadership & Activities-----------
+\section{Leadership \& Activities}
+    \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {De La Salle University Fencing Team}{Jun. 2024 -- Present}
+      {Sabre Fencer}{Manila, Metro Manila}
+      \resumeItemListStart
+        \resumeItem{Represented the university as a student-athlete across UAAP (Seasons 87--89), local regionals, and natinoal open fencing tournmanets.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {DLSU ENGLICOM}{Sep. 2025 -- Present}
+      {Committee Coordinator for Alliance}{Manila, Metro Manila}
+      \resumeItemListStart
+        \resumeItem{Actively reached out to companies and pitched sponsorships proposals to secure event funding and strategic partnerships.}
+        \resumeItem{Drafted and finalised Memorandums of Agreements (MOAs) with sponsors and partners, including OPPO (Millenial Zeal Technology Corporation), Unicharm Philippines, Gong Cha Philippines Inc., etc.}
+      \resumeItemListEnd
+      
+    \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
