@@ -19,6 +19,6 @@ I like prose. I am rich in love, have a big heart, and I try to put a lot of tha
 
 <br>
 
-> Love has never been a popular movement. And no one's ever wanted, really, to be free. The world is held together by the love and the passion of a very few people. Otherwise, of course, you can despair. Walk down the street of any city, any afternoon, and look around you. What you've got to remember is what you're looking at is also you. Everyone you're looking at is also you. You could be that person. You could be that monster, you could be that cop. And you have to decide, in yourself, not to be.
+<!-- > Love has never been a popular movement. And no one's ever wanted, really, to be free. The world is held together by the love and the passion of a very few people. Otherwise, of course, you can despair. Walk down the street of any city, any afternoon, and look around you. What you've got to remember is what you're looking at is also you. Everyone you're looking at is also you. You could be that person. You could be that monster, you could be that cop. And you have to decide, in yourself, not to be.
 >
-> — James Baldwin, 1970
+> — James Baldwin, 1970 -->
