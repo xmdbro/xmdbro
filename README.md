@@ -1,4 +1,4 @@
-Software is beautiful. My interests lie in networks, security, and things made with intention.
+Software is beautiful. My interests lie in networks and security.
 
 I like prose. I am rich in love, have a big heart, and I try to put a lot of that love into the things I make.
 
