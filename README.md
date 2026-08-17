@@ -1,6 +1,6 @@
 Software is beautiful. My interests lie in networks, security, and things made with intention.
 
-I like prose. I am rich in love and have a big heart, and I try to put a lot of that love into the things I make.
+I like prose. I am rich in love, have a big heart, and I try to put a lot of that love into the things I make.
 
 <a href="https://listening-xmdb.vercel.app/">
   <img src="https://listening-xmdb.vercel.app/now.svg?name=Lance" alt="Lance's now playing status">
